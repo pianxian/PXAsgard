@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PXAsgard_Tests' do
+  pod 'PXAsgard', :path => '../'
+  
+  
+end
